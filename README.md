@@ -46,7 +46,7 @@ I am a **Software Developer** with expertise in backend development and an ever-
 ---
 
 ### 🏆 Featured Repository
-[![DevOps Repo](https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=DEVOPS&theme=neon)](https://github.com/jadon-aman/DEVOPS)
+[![DevOps Repo](https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=DEVOPS&theme=neon)](https://github.com/jadon-aman/Devops)
 
 ---
 
