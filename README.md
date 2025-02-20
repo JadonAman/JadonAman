@@ -43,10 +43,11 @@ I am a **Software Developer** with expertise in backend development and an ever-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadon-aman&layout=compact&theme=neon" alt="Top languages" width="450" />
 </p>
 
+
 ---
 
 ### 🏆 Featured Repository
-[![DevOps Repo](https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=DEVOPS&theme=neon)](https://github.com/jadon-aman/Devops)
+[![DevOps Repo](https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=Devops&theme=neon)](https://github.com/jadon-aman/Devops)
 
 ---
 
