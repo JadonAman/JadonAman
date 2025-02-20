@@ -52,7 +52,19 @@ I am a **Software Developer** with expertise in backend development and an ever-
 ---
 
 ### 🏆 Featured Repository
-[![DevOps Repo](https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=Devops&theme=neon)](https://github.com/jadon-aman/Devops)
+<table align="center">
+  <tr>
+      <a href="https://github.com/jadon-aman/Devops">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=Devops&theme=neon" alt="DevOps Repo" width="400" height="120" />
+      </a>
+      <a href="https://github.com/jadon-aman/leetcode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=leetcode&theme=neon" alt="LeetCode Repo" width="400" height="120" />
+      </a>
+  </tr>
+</table>
+
+
+
 
 ---
 
