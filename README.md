@@ -37,8 +37,13 @@ I am a **Software Developer** with expertise in backend development and an ever-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jadon-aman&show_icons=true&theme=neon" alt="GitHub stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadon-aman&theme=neon" alt="GitHub streak stats" width="450" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadon-aman&theme=neon&cache_seconds=86400" alt="GitHub streak stats" width="450" />
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadon-aman&layout=compact&theme=neon" alt="Top languages" width="450" />
 </p>
