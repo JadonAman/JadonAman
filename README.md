@@ -36,7 +36,7 @@ I am a **Software Developer** with expertise in backend development and an ever-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadon-aman&show_icons=true&theme=neon" alt="GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadon-aman&show_icons=true&theme=neon&cache_seconds=3600" alt="GitHub stats" width="450" />
 </p>
 
 <p align="center">
