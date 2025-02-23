@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 I am a **Software Developer** with expertise in backend development and an ever-growing enthusiasm for **DevOps**. I love building efficient systems, automating workflows, and exploring new tools to make processes seamless.  
 
-- 🔭 **Currently working on**: A [DevOps Repository](https://github.com/jadon-aman/DEVOPS) to automate repetitive tasks for developers.  
+- 🔭 **Currently working on**: A [DevOps Repository](https://github.com/jadonaman/DEVOPS) to automate repetitive tasks for developers.  
 - 🌱 **Learning**: Docker, AWS, Jenkins, Prometheus, and YAML.  
 - 🎯 **Goal**: To become a full-fledged DevOps Engineer and help teams deliver faster and better.  
 - 💡 **Fun Fact**: *"I believe in writing code that not only works but also makes life easier for others!"*  
@@ -36,16 +36,16 @@ I am a **Software Developer** with expertise in backend development and an ever-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadon-aman&show_icons=true&theme=neon&cache_seconds=3600" alt="GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadonaman&show_icons=true&theme=neon&cache_seconds=3600" alt="GitHub stats" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadon-aman&theme=neon&cache_seconds=86400" alt="GitHub streak stats" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadonaman&theme=neon&cache_seconds=86400" alt="GitHub streak stats" width="450" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadon-aman&layout=compact&theme=neon" alt="Top languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadonaman&layout=compact&theme=neon" alt="Top languages" width="450" />
 </p>
 
 
@@ -54,11 +54,11 @@ I am a **Software Developer** with expertise in backend development and an ever-
 ### 🏆 Featured Repository
 <table align="center">
   <tr>
-      <a href="https://github.com/jadon-aman/Devops">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=Devops&theme=neon" alt="DevOps Repo" width="400" height="120" />
+      <a href="https://github.com/jadonaman/Devops">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadonaman&repo=Devops&theme=neon" alt="DevOps Repo" width="400" height="120" />
       </a>
-      <a href="https://github.com/jadon-aman/leetcode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadon-aman&repo=leetcode&theme=neon" alt="LeetCode Repo" width="400" height="120" />
+      <a href="https://github.com/jadonaman/leetcode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadonaman&repo=leetcode&theme=neon" alt="LeetCode Repo" width="400" height="120" />
       </a>
   </tr>
 </table>
@@ -77,7 +77,7 @@ I am a **Software Developer** with expertise in backend development and an ever-
 
 ### 🌟 Visitors Count
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadon-aman" alt="Visitors Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadonaman" alt="Visitors Count" />
 </p>
 
 ---
