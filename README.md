@@ -1,92 +1,96 @@
-# 👋 Hello, I'm Aman Jadon!  
+# 👋 Hello, I'm Aman Jadon!
 
-**_"Building reliable backend systems and automating the future of DevOps."_**  
+**Backend Developer | DevOps Enthusiast | Building Scalable Systems**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+DevOps+Enthusiast;Passionate+about+Automation+%26+Scalability;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;DevOps+Enthusiast;API+%26+Database+Expert;CI%2FCD+Pipeline+Builder" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="mailto:Iasamanjadon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/jadonaman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/amanjadon"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am a **Software Developer** with expertise in backend development and an ever-growing enthusiasm for **DevOps**. I love building efficient systems, automating workflows, and exploring new tools to make processes seamless.  
+## 👨‍💻 About Me
 
-- 🔭 **Currently working on**: A [DevOps Repository](https://github.com/jadonaman/DEVOPS) to automate repetitive tasks for developers.  
-- 🌱 **Learning**: Docker, AWS, Jenkins, Prometheus, and YAML.  
-- 🎯 **Goal**: To become a full-fledged DevOps Engineer and help teams deliver faster and better.  
-- 💡 **Fun Fact**: *"I believe in writing code that not only works but also makes life easier for others!"*  
+Computer Science undergraduate with practical experience in **backend development** and **DevOps tooling**. Skilled in building APIs, database optimization, and CI/CD pipelines. 
 
----
-
-### 🚀 Skills & Tools
-#### 🖥️ Backend Development
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-#### ⚙️ DevOps & Cloud Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=flat-square&logo=yaml&logoColor=white)
+- 🎓 **B.Tech CSE** | Chandigarh Group of Colleges | **CGPA: 7.99**
+- 💼 **Backend Developer Intern** at PaceAssembly Tools
+- 🚀 **Full-Stack Developer** | Mahanth Educational Institute (500+ courses)
+- 📈 **200+ coding problems** solved across platforms
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadonaman&show_icons=true&theme=neon&cache_seconds=3600" alt="GitHub stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadonaman&theme=neon&cache_seconds=86400" alt="GitHub streak stats" width="450" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadonaman&layout=compact&theme=neon" alt="Top languages" width="450" />
-</p>
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🏆 Featured Repository
-<table align="center">
-  <tr>
-      <a href="https://github.com/jadonaman/Devops">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadonaman&repo=Devops&theme=neon" alt="DevOps Repo" width="400" height="120" />
-      </a>
-      <a href="https://github.com/jadonaman/leetcode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadonaman&repo=leetcode&theme=neon" alt="LeetCode Repo" width="400" height="120" />
-      </a>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
-
-
-
----
-
-### 🏅 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/amanjadon?theme=dark&ext=heatmap" alt="LeetCode Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JadonAman&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadonAman&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 ---
 
-### 🌟 Visitors Count
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadonaman" alt="Visitors Count" />
-</p>
+## 🚀 Featured Projects
+
+### 🌐 [Portfolio Website](https://genesisoftwares.com)
+Modern full-stack portfolio with React, TypeScript, and Three.js
+- **Tech**: React, TypeScript, Three.js, PHP Backend
+- **Features**: 3D animations, responsive design, contact integration
+
+### � [WebDev Summit Event Site](https://genesisoftwares.com/webdevsummit)  
+Interactive department event website
+- **Tech**: HTML, CSS, JavaScript
+- **Features**: Event listings, responsive layout, optimized performance
+
+### 🔄 DevOps CI/CD Pipeline
+Containerized development pipeline with monitoring
+- **Tools**: Docker, Jenkins, GitHub Webhooks, Prometheus, Grafana
+- **Focus**: Automated deployment, system monitoring, robust workflows
 
 ---
 
-### 🎯 Currently Working On
-<details>
-  <summary>Expand to see my current projects</summary>
-  
-  - 🚀 **[DevOps Repository](https://github.com/jadon-aman/DEVOPS)**: Automating repetitive developer tasks with Docker scripts.
-  - ⚙️ **CI/CD Pipelines**: Building Jenkins pipelines for seamless deployment.
-  - 📊 **Monitoring with Prometheus & Grafana**: Creating real-time visualization dashboards.
-</details>
+## 🏅 Coding & Achievements
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/amanjadon?theme=unicorn&font=source_code_pro" alt="LeetCode Stats" width="50%" />
+</p>
+
+- 🏆 **Google Cybersecurity Professional Certificate** (Feb 2024)
+- 📜 **MongoDB PHP Developer Path** (Jul 2024)
+- 🎯 **200+ coding problems** solved (LeetCode, GeeksforGeeks)
+- 👥 **Event Leadership**: Organized department hackathon with 20-member team
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JadonAman&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
+
+**📧** [Iasamanjadon@gmail.com](mailto:Iasamanjadon@gmail.com) | **💼** [LinkedIn](https://www.linkedin.com/in/jadonaman/) | **🌐** [Portfolio](https://genesisoftwares.com)
+
+---
+
+<p align="center">
+  <i>⭐ Building scalable systems, one commit at a time!</i>
+</p>
