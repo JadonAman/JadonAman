@@ -43,8 +43,8 @@ Computer Science undergraduate with practical experience in **backend developmen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadonAman&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=JadonAman&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JadonAman&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=JadonAman&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 ---
